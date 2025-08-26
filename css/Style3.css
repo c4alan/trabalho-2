@@ -1,0 +1,80 @@
+.ze{
+    display: flex;
+}
+.a1{
+    margin-left: 40%;
+    font-size: 30px;
+    margin-top: 5%;
+}
+.a2{
+    margin-left: 41.8%;
+}
+.ss{
+    height: 4%;
+    width: 15%;
+    margin-left: 29.8%;
+    margin-bottom: 0.8%;
+}
+.ssd{
+    height: 4%;
+    width: 15%;
+}
+select{
+    width: 100px;
+    height: 34px;
+}
+.dd{
+    margin-left: 29.8%;
+}
+.b1{
+    margin-left: 29.8%;
+    margin-bottom: 0.5%;
+}
+.a3{
+    margin-left: 0.5%;
+}
+.a4{
+    margin-left: 0.5%;
+}
+.z{
+    background-color: black;
+    color: white;
+    border-radius: 9px;
+    font-size: 19px;
+}
+.f{
+    border: 2px solid black;
+}
+.cv{
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+}
+.gf{
+    margin-left: 29.8%;
+}
+.hj{
+    width: 15%;
+    height: 4%;
+    margin-left: 29.8%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+}
+.rt{
+    margin-left: 29.8%;
+}
+.blue{
+    color: blue;
+}
+input[type="submit"]{
+    margin-top: 0.5%;
+    margin-left: 40%;
+    width: 10%;
+    height: 4%;
+    background-color: crimson;
+    color: white;
+    border: none;
+}
+.gh{
+    margin-top: 0.5%;
+    margin-left: 42%;
+}
